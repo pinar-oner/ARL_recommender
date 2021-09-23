@@ -14,4 +14,4 @@
 ## Important note: Create decision rules from 2010-2011 Germany customers.
 
 ## To download the dataset:
-### https://archive.ics.uci.edu/ml/machine-learning-databases/00502/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00502/
