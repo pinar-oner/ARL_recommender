@@ -254,7 +254,7 @@ def create_rules(dataframe, id=True, min_support=False, country="Germany"):
         column of the dataframe)
 
     country: str
-        Country name of the product.
+        Country name.
 
     Returns
     -------
